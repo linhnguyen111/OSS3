@@ -13,7 +13,7 @@ Please *don't* use the SourceForge or Google Code projects any more; they are ob
 
 ## Sponsorship
 Development time and resources for PHPMailer are provided by [Smartmessages.net](https://info.smartmessages.net/), a powerful email marketing system.
-![Image](https://camo.githubusercontent.com/6f3a4a42588fb2978b1aeddef4f61161857b6907/68747470733a2f2f7777772e736d6172746d657373616765732e6e65742f696d672f736d6172746d657373616765732d6c6f676f2e737667 =250*28){:width=250height=28}
+![Image](https://camo.githubusercontent.com/6f3a4a42588fb2978b1aeddef4f61161857b6907/68747470733a2f2f7777772e736d6172746d657373616765732e6e65742f696d672f736d6172746d657373616765732d6c6f676f2e737667=250*28){:width=250height=28}
 
 Other contributions are gladly received, whether in beer 🍺, T-shirts 👕, Amazon wishlist raids, or cold, hard cash 💰. If you'd like to donate to say "thank you" to maintainers or contributors, please contact them through individual profile pages via [the contributors page](https://github.com/PHPMailer/PHPMailer/graphs/contributors).
 
