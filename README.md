@@ -14,4 +14,16 @@ Please *don't* use the SourceForge or Google Code projects any more; they are ob
 ## Sponsorship
 Development time and resources for PHPMailer are provided by [Smartmessages.net](https://info.smartmessages.net/), a powerful email marketing system.
 ![Image](https://camo.githubusercontent.com/6f3a4a42588fb2978b1aeddef4f61161857b6907/68747470733a2f2f7777772e736d6172746d657373616765732e6e65742f696d672f736d6172746d657373616765732d6c6f676f2e737667){: width=250 height=28 style="float:right; padding:16px"}
+
 Other contributions are gladly received, whether in beer 🍺, T-shirts 👕, Amazon wishlist raids, or cold, hard cash 💰. If you'd like to donate to say "thank you" to maintainers or contributors, please contact them through individual profile pages via [the contributors page](https://github.com/PHPMailer/PHPMailer/graphs/contributors).
+
+## Changelog
+See [changelog](https://github.com/PHPMailer/PHPMailer/blob/master/changelog.md).
+## History
+- PHPMailer was originally written in 2001 by Brent R. Matzelle as a [SourceForge project](https://sourceforge.net/projects/phpmailer/).
+- Marcus Bointon (coolbru on SF) and Andy Prevost (codeworxtech) took over the project in 2004.
+- Became an Apache incubator project on Google Code in 2010, managed by Jim Jagielski.
+- Marcus created his fork on [GitHub](https://github.com/Synchro/PHPMailer) in 2008.
+- Jim and Marcus decide to join forces and use GitHub as the canonical and official repo for PHPMailer in 2013.
+- PHPMailer moves to the [PHPMailer organisation](https://github.com/PHPMailer) on GitHub in 2013.
+
